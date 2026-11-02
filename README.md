@@ -344,3 +344,10 @@ kubectl get nodes
 kind delete cluster --name quickstart-test
 
 ```
+
+---
+
+
+**Artificial Intelligence Aided**
+
+<img src="./AIA-Artificial-Intelligence-Aided.png" alt="AI-aided" width="80">

@@ -268,7 +268,7 @@ winget install Kubernetes.kind
 ```
 
 
-* **Option B: Using `chocolatey**`
+* **Option B: Using `chocolatey`**
 ```powershell
 choco install docker-desktop kubernetes-cli kind
 
